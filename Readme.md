@@ -11,6 +11,9 @@ See:
   * Encourage well-behaved streaming API clients
   * Operate independently of PHP extensions (ie: shared memory, PCNTL, etc)
 
+## Edits ##
+  * Integrate into CodeIgniter
+
 ## What this library does do ##
   * Handles connection/authentication to the twitter streaming API
   * Consumes the stream handing off each status to be enqueued by a method of your choice
